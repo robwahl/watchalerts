@@ -1,0 +1,13 @@
+﻿<Properties StartupItem="FileBrowser\FileBrowser.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Root\Commands\CommandSwitchUICulture.cs">
+    <Files>
+      <File FileName="Root\Commands\CommandToggleFileExplorer.cs" Line="3" Column="3" />
+      <File FileName="Root\Commands\CommandSwitchUICulture.cs" Line="9" Column="9" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

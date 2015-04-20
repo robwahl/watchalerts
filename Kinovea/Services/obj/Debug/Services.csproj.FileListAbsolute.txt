@@ -1,0 +1,9 @@
+C:\Users\Robert\Desktop\ispy\Kinovea\Services\obj\Debug\Kinovea.Services.Properties.Resources.resources
+C:\Users\Robert\Desktop\ispy\Kinovea\Services\obj\Debug\Services.csproj.GenerateResource.Cache
+C:\Users\Robert\Desktop\ispy\Kinovea\Services\bin\Debug\Kinovea.Services.dll.config
+C:\Users\Robert\Desktop\ispy\Kinovea\Services\bin\Debug\Kinovea.Services.dll
+C:\Users\Robert\Desktop\ispy\Kinovea\Services\bin\Debug\Kinovea.Services.pdb
+C:\Users\Robert\Desktop\ispy\Kinovea\Services\bin\Debug\LinqBridge.dll
+C:\Users\Robert\Desktop\ispy\Kinovea\Services\bin\Debug\log4net.dll
+C:\Users\Robert\Desktop\ispy\Kinovea\Services\obj\Debug\Kinovea.Services.dll
+C:\Users\Robert\Desktop\ispy\Kinovea\Services\obj\Debug\Kinovea.Services.pdb

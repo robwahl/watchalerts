@@ -1,0 +1,5 @@
+C:\Users\Robert\Desktop\ispy\ispy\iSpyApplication\bin\Debug\iSpy.exe.config
+C:\Users\Robert\Desktop\ispy\ispy\iSpyApplication\obj\Debug\Interop.NATUPNPLib.dll
+C:\Users\Robert\Desktop\ispy\ispy\iSpyApplication\obj\Debug\Interop.NETCONLib.dll
+C:\Users\Robert\Desktop\ispy\ispy\iSpyApplication\obj\Debug\Interop.NETWORKLIST.dll
+C:\Users\Robert\Desktop\ispy\ispy\iSpyApplication\obj\Debug\iSpyApplication.csproj.ResolveComReference.cache

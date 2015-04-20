@@ -1,0 +1,10 @@
+C:\Users\Robert\Desktop\ispy\Kinovea\SharpVectorRenderingEngine\bin\x86\Debug\SharpVectorRenderingEngine.dll
+C:\Users\Robert\Desktop\ispy\Kinovea\SharpVectorRenderingEngine\bin\x86\Debug\SharpVectorRenderingEngine.dll.CodeAnalysisLog.xml
+C:\Users\Robert\Desktop\ispy\Kinovea\SharpVectorRenderingEngine\bin\x86\Debug\SharpVectorRenderingEngine.dll.lastcodeanalysissucceeded
+C:\Users\Robert\Desktop\ispy\Kinovea\SharpVectorRenderingEngine\bin\x86\Debug\SharpVectorBindings.dll
+C:\Users\Robert\Desktop\ispy\Kinovea\SharpVectorRenderingEngine\bin\x86\Debug\SharpVectorCss.dll
+C:\Users\Robert\Desktop\ispy\Kinovea\SharpVectorRenderingEngine\bin\x86\Debug\SharpVectorDom.dll
+C:\Users\Robert\Desktop\ispy\Kinovea\SharpVectorRenderingEngine\bin\x86\Debug\SharpVectorObjectModel.dll
+C:\Users\Robert\Desktop\ispy\Kinovea\SharpVectorRenderingEngine\bin\x86\Debug\SharpVectorUtil.dll
+C:\Users\Robert\Desktop\ispy\Kinovea\SharpVectorRenderingEngine\obj\Debug\SharpVectorRenderingEngine.csprojResolveAssemblyReference.cache
+C:\Users\Robert\Desktop\ispy\Kinovea\SharpVectorRenderingEngine\obj\Debug\SharpVectorRenderingEngine.dll
